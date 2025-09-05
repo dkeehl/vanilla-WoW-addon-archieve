@@ -1,0 +1,10 @@
+﻿## Interface: 11200
+## Title: TSTargetMark
+## Notes: 阿tian定制的目标箭头
+## Title-zhCN:|CFF33AAFF[辅助]|R目标标记
+## Notes-zhCN:|CFFFFFF00MSTargetMark|R|N让你选中的目标姓名板上呈现一个自定义标记，方便你辨清你选择的目标。
+## X-Repple: 职业
+## Author: 阿tian
+## Version: 1.0
+
+TSTargetMark.lua
